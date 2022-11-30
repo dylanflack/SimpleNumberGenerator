@@ -1,2 +1,2 @@
 # BasicAssRandomNumberGen
-‘I am the one who knocks.’
+'import java.util.Random;' That's about it.
